@@ -16,6 +16,6 @@ public class SpringBootJenkinsJobsApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        log.info("it is second logger");
+        log.info("it is second logger")
     }
 }
